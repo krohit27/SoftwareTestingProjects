@@ -1,7 +1,7 @@
 Author - Rohit Kalshetty
 
 # Software Testing Projects
-This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.
+This repository contains a list of all the projects completed during my software testing training. The projects were completed using a combination of manual testing techniques and test management tools.
 
 ## Project List
 
@@ -10,9 +10,10 @@ This repository contains a list of all the projects completed during my manual t
                 and conversion optimization platform. The app includes a login page, registration 
                 page, and a user-friendly dashboard.
 
-2. OpenCartProject - OpenCart is a free, open-source e-commerce platform that helps online merchants 
-                     build and manage their stores. Using OpenCart, you can manage various stores 
-                     from a single admin interface.
+2. OpenCartProject - 
+- Description -     OpenCart is a free, open-source e-commerce platform that helps online merchants 
+                    build and manage their stores. Using OpenCart, you can manage various stores 
+                    from a single admin interface.
 
 
 
@@ -41,6 +42,6 @@ This repository contains a list of all the projects completed during my manual t
 - Test Scenarios
 - Test Excecution results
 
-### Project 3
+
 
 
